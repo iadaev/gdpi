@@ -17,7 +17,7 @@ If it works — congratulations! You can use it as-is or configure further.
 
 # How to use
 
-Download [latest version from Releases page](https://github.com/ValdikSS/GoodbyeDPI/releases) and run.
+Download [latest version from Releases page](https://github.com/ValdikSS/GoodbyeDPI/releases) and run. Run as fast as you can.
 
 ## Supported arguments
 To get relevant information about your version of the program, use the -h (--help) argument at startup.
